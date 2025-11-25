@@ -1,1 +1,1 @@
-collection of cheat sheets for access via CLI
+# **Collection of cheat sheets for easy access via CLI**
